@@ -8,7 +8,9 @@ comments: false
 ---
 
 #### About  
-I received the B.S. degree in Physics from Peking University, Beijing, China, in 2015, and the M.S. and Ph.D. degrees in Electrical Engineering from University of California at Los Angeles, in 2017 and 2020, respectively. I was advised by [Dr. Asad A. Abidi](https://scholar.google.com/citations?user=44y2Oc4AAAAJ&hl=en) in PhD. I have been with Broadcom Corp. since 2020.
+I received the B.S. degree in Physics from Peking University, Beijing, China, in 2015, and the M.S. and Ph.D. degrees in Electrical Engineering from University of California at Los Angeles, in 2017 and 2020, respectively. I was advised by [Dr. Asad A. Abidi](https://scholar.google.com/citations?user=44y2Oc4AAAAJ&hl=en) in PhD. 
+\
+I have been with Broadcom Corp. since 2020, working on wireless communication IC design.
 \
 My researches and works focus on radio frequency, mixed-signal, analog, and microwave integrated circuit design.
 
