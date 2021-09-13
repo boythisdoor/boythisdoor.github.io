@@ -1,10 +1,13 @@
-title: Dr.
+title: Dr
 logo: /fig/xingming
 description: IC designer.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
 encoding: "utf-8"
+
+footer:
+  - <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=RrdFrlQEXegADWJVAyTaqhe3rDF1QcXml9jtcZ15r8U&cl=ffffff&w=a"></script>
 
 author:
   name             : "Dr."
@@ -19,6 +22,29 @@ author:
     - label: "Google Scholar"
       icon: "fa fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=m_Xw6ioAAAAJ&hl=en"
+      
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
 
 plugins:
   - jekyll-paginate
