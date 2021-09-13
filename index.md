@@ -8,12 +8,12 @@ comments: false
 ---
 
 #### About  
-My name is ![xingming](/fig/xingming.png). I received the B.S. degree in Physics from Peking University, Beijing, China, in 2015, and the M.S. and Ph.D. degrees in Electrical Engineering from University of California at Los Angeles, in 2017 and 2020, respectively. I was advised by [Dr. Asad A. Abidi](https://scholar.google.com/citations?user=44y2Oc4AAAAJ&hl=en). I am with Broadcom Corp. since 2020.
+I received the B.S. degree in Physics from Peking University, Beijing, China, in 2015, and the M.S. and Ph.D. degrees in Electrical Engineering from University of California at Los Angeles, in 2017 and 2020, respectively. I was advised by [Dr. Asad A. Abidi](https://scholar.google.com/citations?user=44y2Oc4AAAAJ&hl=en). I am with Broadcom Corp. since 2020.
 My researches and works focus on radio frequency, mixed-signal, analog, and microwave integrated circuit design.
 
 
 #### Contact Information
-E-mail: ![youjian](/fig/youjian.png)\
+E-mail: ![youjian](/fig/youjian.png)
 
 
 #### <span style="color:red">News</span>
