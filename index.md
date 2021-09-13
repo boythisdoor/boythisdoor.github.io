@@ -23,13 +23,15 @@ E-mail: ![youjian](/fig/youjian.png)
 
 **[2021.06]** Conference paper is presented at <span style="color:red">RFIC 2021</span>.
 
-**[2021.06]** Presented in conference workshop "Deep Analysis Can Compress the Time to Design Optimum Analog/Mixed-Signal Circuits" <span style="color:red">VLSI 2021</span>.
+**[2021.06]** Presented at conference workshop "Deep Analysis Can Compress the Time to Design Optimum Analog/Mixed-Signal Circuits", <span style="color:red">VLSI 2021</span>.
+
+**[2021.04]** Our paper is nominated to IEEE RFIC Best Student Paper Award at <span style="color:red">RFIC 2021</span>. 
 
 **[2021.03]** One paper is accepted at <span style="color:red">RFIC 2021</span>. 
 
-**[2020.12]** Earned PhD degree at UCLA.
+**[2020.12]** Earned my PhD degree at UCLA.
 
-**[2020.10]** Defended at PhD final oral exam.
+**[2020.10]** Defended my PhD.
 
 **[2020.10]** Served as a reviewer for JSSC.
 
