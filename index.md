@@ -21,7 +21,7 @@ E-mail: ![youjian](/fig/youjian.png)
 
 #### <span style="color:red">News</span>
 
-**[2021.06]** Conference paper is presented at <span style="color:red">RFIC 2021</span>.
+**[2021.06]** Our conference paper is presented at <span style="color:red">RFIC 2021</span>.
 
 **[2021.06]** Presented at conference workshop "Deep Analysis Can Compress the Time to Design Optimum Analog/Mixed-Signal Circuits", <span style="color:red">VLSI 2021</span>.
 
