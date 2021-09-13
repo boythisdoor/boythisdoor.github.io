@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: single
 permalink: /index
 title:
-classes: default
+classes: single
 modified: 5-28-2019
 comments: false
 ---
