@@ -1,10 +1,10 @@
 ---
-layout single
-permalink /index
-title
-classes single
-modified 5-28-2019
-comments false
+layout: default
+permalink: /index
+title:
+classes: default
+modified: 5-28-2019
+comments: false
 ---
 
 #### About  
