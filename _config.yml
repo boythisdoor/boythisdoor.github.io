@@ -1,2 +1,5 @@
 theme: jekyll-theme-minimal
 title: /fig/name.png
+logo: /fig/name.png
+description: /fig/name.png
+show_downloads: true
