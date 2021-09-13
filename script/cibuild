@@ -1,5 +1,5 @@
 #!/bin/sh
-chmod +x cibuild
+#chmod +x cibuild
 set -e
 
 bundle exec jekyll build

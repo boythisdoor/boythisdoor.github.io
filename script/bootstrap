@@ -1,6 +1,9 @@
 #!/bin/sh
-chmod +x bootstrap
+#chmod +x bootstrap
 set -e
 
 gem install bundler
 bundle install
+#gem install html-proofer
+#gem install jekyll 
+#gem install rubocop-github
