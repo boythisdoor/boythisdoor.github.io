@@ -10,7 +10,7 @@ comments: false
 #### About  
 I received the B.S. degree in Physics from Peking University, Beijing, China, in 2015, and the M.S. and Ph.D. degrees in Electrical Engineering from University of California at Los Angeles, in 2017 and 2020, respectively. I was advised by [Dr. Asad A. Abidi](https://scholar.google.com/citations?user=44y2Oc4AAAAJ&hl=en) in PhD. 
 \
-I have been with Broadcom Corp. since 2020, working on wireless communication IC design.
+I have been with Broadcom Corp. since 2020, working on wireless communication IC design and research.
 \
 My researches and works focus on radio frequency, mixed-signal, analog, and microwave integrated circuit design.
 
@@ -37,4 +37,4 @@ E-mail: ![youjian](/fig/youjian.png)
 [More...]
 
 \
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=RrdFrlQEXegADWJVAyTaqhe3rDF1QcXml9jtcZ15r8U&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=RrdFrlQEXegADWJVAyTaqhe3rDF1QcXml9jtcZ15r8U'></script>
