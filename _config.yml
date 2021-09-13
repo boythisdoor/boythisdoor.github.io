@@ -1,5 +1,5 @@
 title: Dr
-logo: /fig/xingming.png
+#logo: /fig/xingming.png
 description: IC designer.
 show_downloads: true
 google_analytics:
@@ -10,9 +10,9 @@ footer:
   - <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=RrdFrlQEXegADWJVAyTaqhe3rDF1QcXml9jtcZ15r8U&cl=ffffff&w=a"></script>
 
 author:
-  name             : "Dr."
+  name             : ""
   avatar           : "/fig/xingming.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "."
+  bio              : "IC designer."
   location         : "San Jose, USA"
   email            :
   links:
