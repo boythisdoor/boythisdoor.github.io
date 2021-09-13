@@ -20,7 +20,7 @@ E-mail: ![youjian](/fig/youjian.png)\
 
 **[2021.06]** Conference paper is presented at <span style="color:red">RFIC 2021</span>.
 
-**[2021.06]** Conference workshop "Deep Analysis Can Compress the Time to Design Optimum Analog/Mixed-Signal Circuits" is presented <span style="color:red">VLSI 2021</span>.
+**[2021.06]** Presented in conference workshop "Deep Analysis Can Compress the Time to Design Optimum Analog/Mixed-Signal Circuits" <span style="color:red">VLSI 2021</span>.
 
 **[2021.03]** One paper is accepted at <span style="color:red">RFIC 2021</span>. 
 
@@ -33,4 +33,5 @@ E-mail: ![youjian](/fig/youjian.png)\
 
 [More...]
 
+\
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=RrdFrlQEXegADWJVAyTaqhe3rDF1QcXml9jtcZ15r8U&cl=ffffff&w=a"></script>

@@ -7,3 +7,17 @@ theme: jekyll-theme-minimal
 encoding: "utf-8"
 footer:
   - <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=RrdFrlQEXegADWJVAyTaqhe3rDF1QcXml9jtcZ15r8U&cl=ffffff&w=a"></script>
+
+  author:
+  name             : "Dr."
+  avatar           : "/fig/xingming" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "."
+  location         : "San Jose, USA"
+  email            :
+  links:
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/kejian/"
+    - label: "Google Scholar"
+      icon: "fa fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=m_Xw6ioAAAAJ&hl=en"
