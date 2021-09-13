@@ -12,8 +12,9 @@ jobs:
         with:
           ruby-version: 2.7
           bundler-cache: true
-      - name: build
+      - name: Make bootstrap executable
         run: chmod +x script/bootstrap
+      - name: build
         run: script/bootstrap
       - name: test
         run: script/cibuild
