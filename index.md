@@ -26,10 +26,10 @@ E-mail: ![youjian](/fig/youjian.png)\
 
 **[2020.12]** Graduated from PhD.
 
-**[2020.10]** Passed PhD defense.
+**[2020.10]** Passed PhD defense.cd 
 
 **[2020.10]** Served as a reviewer for JSSC.
 
 
-[More...](./news/)
+[More...]
 
