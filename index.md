@@ -34,5 +34,3 @@ E-mail: ![youjian](/fig/youjian.png)\
 [More...]
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=RrdFrlQEXegADWJVAyTaqhe3rDF1QcXml9jtcZ15r8U&cl=ffffff&w=a"></script>
-
-<a href="https://clustrmaps.com/site/1bjz3"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=RrdFrlQEXegADWJVAyTaqhe3rDF1QcXml9jtcZ15r8U&cl=ffffff" /></a>
