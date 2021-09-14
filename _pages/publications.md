@@ -30,7 +30,7 @@ comments: false
 
 + **K. Shi**\
   **RF Front-End Circuits for FDD Radios: Duplexers and Receivers**\
-  *Doctoral dissertation, UCLA, 2020*\
+  *Doctoral Dissertation, UCLA, 2020*\
   [[Link]](https://escholarship.org/uc/item/6cf8p758){:target="_blank"}
 
 + **K. Shi**\
