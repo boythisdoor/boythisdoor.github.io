@@ -31,7 +31,7 @@ E-mail: ![youjian](/fig/youjian.png)
 
 **[2021.03]** One paper is accepted at <span style="color:red">RFIC 2021</span>. 
 
-**[2020.12]** Earned my PhD degree at <img src="fig/logo-ucla.png" width="55"/>.
+**[2020.12]** Earned my PhD degree at UCLA.
 
 **[2020.10]** Defended my PhD.
 
