@@ -53,3 +53,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+
+include:
+  - .htaccess
+  - _pages
