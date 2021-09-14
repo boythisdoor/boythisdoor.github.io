@@ -23,7 +23,7 @@ E-mail: ![youjian](/fig/youjian.png)
 
 **[2021.07]** Our RFIC paper is invited for JSSC special issue.
 
-**[2021.06]** Our RFIC Student Showcase presentation is on [IEEE.tv](https://ieeetv.ieee.org/channels/mtts/kejian-shi-rfic-student-showcase-ims-2021).
+**[2021.06]** Our RFIC Student Showcase presentation is on [/fig/ieetv.svg](https://ieeetv.ieee.org/channels/mtts/kejian-shi-rfic-student-showcase-ims-2021).
 
 **[2021.06]** Presented at conference workshop "Deep Analysis Can Compress the Time to Design Optimum Analog/Mixed-Signal Circuits", <span style="color:red">VLSI 2021</span>.
 
@@ -38,7 +38,7 @@ E-mail: ![youjian](/fig/youjian.png)
 **[2020.10]** Served as a reviewer for JSSC.
 
 
-[More...]
+[More...](./news)
 
 \
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=RrdFrlQEXegADWJVAyTaqhe3rDF1QcXml9jtcZ15r8U'></script>
