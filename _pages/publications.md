@@ -7,7 +7,7 @@ comments: false
 ---
 
 
-#### Peer-reviewed Publications
+#### Peer-Reviewed Publications
 
 + **K. Shi**, [H. Darabi][HD]{:target="_blank"}, [A. A. Abidi][AAA]{:target="_blank"}\
   **An Electrical Balance Duplexer for FDD Radios that Isolates TX from RX Independently in Two Bands**\
