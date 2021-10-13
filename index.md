@@ -21,6 +21,8 @@ E-mail: ![youjian](/fig/youjian.png)
 
 #### <span style="color:red">News</span>
 
+**[2021.07]** One paper is accepted at <span style="color:red">ISSCC 2022</span>.
+
 **[2021.07]** Our RFIC paper is invited for JSSC special issue.
 
 **[2021.06]** Our RFIC Student Showcase presentation is on [<img src="fig/ieeetv.svg" alt="IEEE.tv" width="65"/>](https://ieeetv.ieee.org/channels/mtts/kejian-shi-rfic-student-showcase-ims-2021).
@@ -30,12 +32,6 @@ E-mail: ![youjian](/fig/youjian.png)
 **[2021.04]** Our paper is nominated to IEEE RFIC Best Student Paper Award. 
 
 **[2021.03]** One paper is accepted at <span style="color:red">RFIC 2021</span>. 
-
-**[2020.12]** Earned my PhD degree at UCLA.
-
-**[2020.10]** Defended my PhD.
-
-**[2020.10]** Served as a reviewer for JSSC.
 
 
 [More...](./news)
