@@ -21,7 +21,7 @@ E-mail: ![youjian](/fig/youjian.png)
 
 #### <span style="color:red">News</span>
 
-**[2021.07]** One paper is accepted at <span style="color:red">ISSCC 2022</span>.
+**[2021.10]** One paper is accepted at <span style="color:red">ISSCC 2022</span>.
 
 **[2021.07]** Our RFIC paper is invited for JSSC special issue.
 
