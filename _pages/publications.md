@@ -9,6 +9,10 @@ comments: false
 
 #### Peer-Reviewed Publications
 
++ **K. Shi**, [H. Darabi][HD]{:target="_blank"}, [A. A. Abidi][AAA]{:target="_blank"}\
+  **Design and Analysis of an Electrical Balance Duplexer with Independent and Concurrent Dual-Band TX-RX Isolation**\
+  *IEEE Journal of Solid-State Circuits*
+
 + [D. Yang][DY]{:target="_blank"}, [D. Murphy][DM]{:target="_blank"}, [H. Darabi][HD]{:target="_blank"}, [A. Behzad][AB]{:target="_blank"}, [A. A. Abidi][AAA]{:target="_blank"}, S. Au, S. Mundlapudi, **K. Shi**, W. Leng\
   **A Sub-100MHz Reference-Driven 25-to-28GHz Fractional-N PLL with -250dB FoM**\
   *2022 IEEE International Solid-State Circuits Conference (ISSCC)*
@@ -24,10 +28,6 @@ comments: false
 
 
 #### Works Under Review
-
-+ **K. Shi**, [H. Darabi][HD]{:target="_blank"}, [A. A. Abidi][AAA]{:target="_blank"}\
-  **Design and Analysis of an Electrical Balance Duplexer with Independent and Concurrent Dual-Band TX-RX Isolation**\
-  *IEEE Journal of Solid-State Circuits*
 
 
 #### Dissertations
