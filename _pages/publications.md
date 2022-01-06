@@ -11,7 +11,7 @@ comments: false
 
 + **K. Shi**, [H. Darabi][HD]{:target="_blank"}, [A. A. Abidi][AAA]{:target="_blank"}\
   **Design and Analysis of an Electrical Balance Duplexer with Independent and Concurrent Dual-Band TX-RX Isolation**\
-  *IEEE Journal of Solid-State Circuits, 2022*
+  *IEEE Journal of Solid-State Circuits, 2022*\
   [[Link]](https://ieeexplore.ieee.org/document/9670440){:target="_blank"}
 
 + [D. Yang][DY]{:target="_blank"}, [D. Murphy][DM]{:target="_blank"}, [H. Darabi][HD]{:target="_blank"}, [A. Behzad][AB]{:target="_blank"}, [A. A. Abidi][AAA]{:target="_blank"}, S. Au, S. Mundlapudi, **K. Shi**, W. Leng\
