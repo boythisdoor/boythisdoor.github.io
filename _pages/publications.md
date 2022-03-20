@@ -16,7 +16,8 @@ comments: false
 
 + [D. Yang][DY]{:target="_blank"}, [D. Murphy][DM]{:target="_blank"}, [H. Darabi][HD]{:target="_blank"}, [A. Behzad][AB]{:target="_blank"}, [A. A. Abidi][AAA]{:target="_blank"}, S. Au, S. Mundlapudi, **K. Shi**, W. Leng\
   **A Sub-100MHz Reference-Driven 25-to-28GHz Fractional-N PLL with -250dB FoM**\
-  *2022 IEEE International Solid-State Circuits Conference (ISSCC)*
+  *2022 IEEE International Solid-State Circuits Conference (ISSCC)*\
+  [[Link]](https://ieeexplore.ieee.org/document/9731628){:target="_blank"}
 
 + **K. Shi**, [H. Darabi][HD]{:target="_blank"}, [A. A. Abidi][AAA]{:target="_blank"}\
   **An Electrical Balance Duplexer for FDD Radios that Isolates TX from RX Independently in Two Bands**\
