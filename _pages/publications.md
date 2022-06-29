@@ -31,6 +31,9 @@ comments: false
 
 #### Works Under Review
 
++ [D. Yang][DY]{:target="_blank"}, [D. Murphy][DM]{:target="_blank"}, [H. Darabi][HD]{:target="_blank"}, [A. Behzad][AB]{:target="_blank"}, [A. A. Abidi][AAA]{:target="_blank"}, S. Au, S. Mundlapudi, **K. Shi**, W. Leng\
+  **A Harmonic-Mixing PLL Architecture for Millimeter-Wave Application**\
+  *IEEE Journal of Solid-State Circuits, 2022*\
 
 #### Dissertations
 
