@@ -7,7 +7,7 @@ modified: 5-28-2019
 comments: false
 ---
 
-**[2022.10]** One paper is accepted at <span style="color:red">JSSC</span>.
+**[2022.09]** One paper is accepted at <span style="color:red">JSSC</span>.
 
 **[2021.12]** One paper is accepted at <span style="color:red">JSSC</span>.
 
