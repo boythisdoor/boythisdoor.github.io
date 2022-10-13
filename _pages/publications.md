@@ -9,6 +9,11 @@ comments: false
 
 #### Peer-Reviewed Publications
 
++ [D. Yang][DY]{:target="_blank"}, [D. Murphy][DM]{:target="_blank"}, [H. Darabi][HD]{:target="_blank"}, [A. Behzad][AB]{:target="_blank"}, [A. A. Abidi][AAA]{:target="_blank"}, S. Au, S. Mundlapudi, **K. Shi**, W. Leng\
+  **A Harmonic-Mixing PLL Architecture for Millimeter-Wave Application**\
+  *IEEE Journal of Solid-State Circuits, 2022*\
+  [[Link]](https://ieeexplore.ieee.org/document/9916251){:target="_blank"}
+
 + **K. Shi**, [H. Darabi][HD]{:target="_blank"}, [A. A. Abidi][AAA]{:target="_blank"}\
   **Design and Analysis of an Electrical Balance Duplexer with Independent and Concurrent Dual-Band TX-RX Isolation**\
   *IEEE Journal of Solid-State Circuits, 2022*\
@@ -31,10 +36,7 @@ comments: false
 
 #### Works Under Review
 
-+ [D. Yang][DY]{:target="_blank"}, [D. Murphy][DM]{:target="_blank"}, [H. Darabi][HD]{:target="_blank"}, [A. Behzad][AB]{:target="_blank"}, [A. A. Abidi][AAA]{:target="_blank"}, S. Au, S. Mundlapudi, **K. Shi**, W. Leng\
-  **A Harmonic-Mixing PLL Architecture for Millimeter-Wave Application**\
-  *IEEE Journal of Solid-State Circuits, 2022*
-  
+
 + **K. Shi**, [A. A. Abidi][AAA]{:target="_blank"}, [H. Darabi][HD]{:target="_blank"}\
   **Second-Order Transimpedance Amplifiers in Mixer-First Receivers: Design for Optimum Blocker Tolerance**\
   *IEEE Transactions on Circuits and Systems I*
