@@ -21,6 +21,8 @@ E-mail: ![youjian](/fig/youjian.png)
 
 #### <span style="color:red">News</span>
 
+**[2022.09]** One paper is accepted at <span style="color:red">JSSC</span>.
+
 **[2021.12]** One paper is accepted at <span style="color:red">JSSC</span>.
 
 **[2021.10]** One paper is accepted at <span style="color:red">ISSCC 2022</span>.
