@@ -21,6 +21,8 @@ E-mail: ![youjian](/fig/youjian.png)
 
 #### <span style="color:red">News</span>
 
+**[2023.02]** One paper is accepted at <span style="color:red">TCAS-I</span>.
+
 **[2022.09]** One paper is accepted at <span style="color:red">JSSC</span>.
 
 **[2021.12]** One paper is accepted at <span style="color:red">JSSC</span>.
@@ -34,8 +36,6 @@ E-mail: ![youjian](/fig/youjian.png)
 **[2021.06]** Presented at <span style="color:red">VLSI 2021</span> workshop "Deep Analysis Can Compress the Time to Design Optimum Analog/Mixed-Signal Circuits".
 
 **[2021.04]** Our paper is nominated to IEEE RFIC Best Student Paper Award. 
-
-**[2021.03]** One paper is accepted at <span style="color:red">RFIC 2021</span>. 
 
 
 [More...](./news)
