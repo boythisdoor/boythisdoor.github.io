@@ -21,7 +21,7 @@ E-mail: ![youjian](/fig/youjian.png)
 
 #### <span style="color:red">News</span>
 
-**[2023.05]** Our paper is select as <span style="color:red">TCAS-I</span> "Highlight for the May 2023".
+**[2023.05]** Our <span style="color:red">TCAS-I</span> paper is select as "Highlight for the May 2023".
 
 **[2023.02]** One paper is accepted at <span style="color:red">TCAS-I</span>.
 
