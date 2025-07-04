@@ -19,7 +19,7 @@ He was a recipient of the IEEE TCAS-I Editor-in-Chief's Top Pick for the May 202
 He was a nominee for the Best Student Paper Award at the 2021 IEEE RFIC Symposium. 
 He was a recipient of the Broadcom Foundation Fellowship in 2018. 
 He was the Gold Medal Winner of the Chinese Physics Olympiad and a Finalist of the National Physics Team in 2010.
-He serves as an TPC member at IEEE CICC Wireless Subcommittee.
+He serves as a TPC member at IEEE CICC Wireless Subcommittee.
 
 
 #### Contact Information
