@@ -8,11 +8,18 @@ comments: false
 ---
 
 #### About  
-I received the B.S. degree in Physics from Peking University <img src="fig/pku.png" width="30"/>, Beijing, China, in 2015, and the M.S. and Ph.D. degrees in Electrical Engineering from University of California, Los Angeles <img src="fig/logo-ucla.png" width="55"/>, in 2017 and 2020, respectively. I was advised by [Dr. Asad A. Abidi](https://scholar.google.com/citations?user=44y2Oc4AAAAJ&hl=en) at UCLA. 
+K. Shi received the B.S. degree in Physics from Peking University <img src="fig/pku.png" width="30"/>, Beijing, China, in 2015, and the M.S. and Ph.D. degrees in Electrical Engineering from University of California, Los Angeles <img src="fig/logo-ucla.png" width="55"/>, in 2017 and 2020, respectively. 
+He was advised by [Dr. Asad A. Abidi](https://scholar.google.com/citations?user=44y2Oc4AAAAJ&hl=en) at UCLA. 
 \
-I have been with Broadcom Corp. since 2020, working on wireless communication IC design and research.
+He has been with the Wireless Connectivity Group, Broadcom Inc., San Jose, CA, USA, since 2020.
+His research interests include RF/microwave and analog integrated circuit design.
 \
-My researches and works focus on radio frequency, mixed-signal, analog, and microwave integrated circuit design.
+Dr. Shi was a co-recipient of the 2022 IEEE JSSC Best Paper Award.
+He was a recipient of the IEEE TCAS-I Editor-in-Chief's Top Pick for the May 2023 Issue.
+He was a nominee for the Best Student Paper Award at the 2021 IEEE RFIC Symposium. 
+He was a recipient of the Broadcom Foundation Fellowship in 2018. 
+He was the Gold Medal Winner of the Chinese Physics Olympiad and a Finalist of the National Physics Team in 2010.
+He serves as an TPC member at IEEE CICC Wireless Subcommittee.
 
 
 #### Contact Information
