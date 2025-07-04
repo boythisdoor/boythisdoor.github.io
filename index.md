@@ -11,8 +11,10 @@ comments: false
 Dr. Shi received the B.S. degree in Physics from Peking University <img src="fig/pku.png" width="30"/>, Beijing, China, in 2015, and the M.S. and Ph.D. degrees in Electrical Engineering from University of California, Los Angeles <img src="fig/logo-ucla.png" width="55"/>, in 2017 and 2020, respectively. 
 He was advised by [Dr. Asad A. Abidi](https://scholar.google.com/citations?user=44y2Oc4AAAAJ&hl=en) at UCLA. 
 \
+\
 He has been with the Wireless Connectivity Group, Broadcom Inc., San Jose, CA, USA, since 2020.
 His research interests include RF/microwave and analog integrated circuit design.
+\
 \
 Dr. Shi was a co-recipient of the 2022 IEEE JSSC Best Paper Award.
 He was a recipient of the IEEE TCAS-I Editor-in-Chief's Top Pick for the May 2023 Issue.
