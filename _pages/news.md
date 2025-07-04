@@ -7,6 +7,8 @@ modified: 5-28-2019
 comments: false
 ---
 
+**[2025.07]** Became an invited <span style="color:red">IEEE CICC TPC</span> member.
+
 **[2024.02]** Our <span style="color:red">JSSC</span> paper is awarded 2022 IEEE JSSC Best Paper Award.
 
 **[2023.05]** Our <span style="color:red">TCAS-I</span> paper is select as "Highlight for the May 2023".
