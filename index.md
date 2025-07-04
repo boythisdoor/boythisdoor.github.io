@@ -21,6 +21,8 @@ E-mail: ![youjian](/fig/youjian.png)
 
 #### <span style="color:red">News</span>
 
+**[2025.07]** Became an invited <span style="color:red">IEEE CICC TPC</span> member.
+
 **[2024.02]** Our <span style="color:red">JSSC</span> paper is awarded 2022 IEEE JSSC Best Paper Award.
 
 **[2023.05]** Our <span style="color:red">TCAS-I</span> paper is select as "Highlight for the May 2023".
@@ -34,8 +36,6 @@ E-mail: ![youjian](/fig/youjian.png)
 **[2021.10]** One paper is accepted at <span style="color:red">ISSCC 2022</span>.
 
 **[2021.07]** Our RFIC paper is invited for JSSC special issue.
-
-**[2021.06]** Our RFIC Student Showcase presentation is on [<img src="fig/ieeetv.svg" alt="IEEE.tv" width="65"/>](https://ieeetv.ieee.org/channels/mtts/kejian-shi-rfic-student-showcase-ims-2021).
 
 
 [More...](./news)
