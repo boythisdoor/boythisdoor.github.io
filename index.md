@@ -30,6 +30,8 @@ E-mail: ![youjian](/fig/youjian.png)
 
 #### <span style="color:red">News</span>
 
+**[2026.02]** Become an <span style="color:red">IEEE Senior Member</span>.
+
 **[2025.07]** Became an invited <span style="color:red">IEEE CICC TPC</span> member.
 
 **[2024.02]** Our <span style="color:red">JSSC</span> paper is awarded 2022 IEEE JSSC Best Paper Award.
@@ -43,8 +45,6 @@ E-mail: ![youjian](/fig/youjian.png)
 **[2021.12]** One paper is accepted at <span style="color:red">JSSC</span>.
 
 **[2021.10]** One paper is accepted at <span style="color:red">ISSCC 2022</span>.
-
-**[2021.07]** Our RFIC paper is invited for JSSC special issue.
 
 
 [More...](./news)
