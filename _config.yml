@@ -57,3 +57,4 @@ plugins:
 include:
   - .htaccess
   - _pages
+  - .well-known
